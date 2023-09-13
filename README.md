@@ -10,4 +10,5 @@ Software|(pvt) [Sync Emulator Save States to Github & My Save Files](https://git
 Game|[OpenRollerCoaster Tycoon 2 Setup Guide](https://github.com/FOLahey/OpenRCT2)
 
 ## Other 
-I am currently [learning about HAM Radio](https://github.com/FOLahey/HAM) if you want to learn along with me.
+- I am currently [learning about HAM Radio](https://github.com/FOLahey/HAM) if you want to learn along with me.
+- I am working on playing through old games I missed or didn't finish. I am tracking my progress over at [RetroAchievements](https://retroachievements.org/user/Lahey).
