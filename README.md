@@ -9,3 +9,6 @@
 
 ## Games and Game Servers
 - [OpenRollerCoaster Tycoon 2 Setup Guide](https://github.com/FOLahey/OpenRCT2)
+
+## Other
+- [Learning about HAM Radio](https://github.com/FOLahey/HAM)
