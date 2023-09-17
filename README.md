@@ -4,7 +4,7 @@ Hi, I am Lahey. These are some of the projects I am working on right now.
 ## Gaming Guides
 Type|Guide
 ---|---
-Hardware|[Steam Deck Setup Guide]("./guides/hardware/Steam Deck Setup.md")
+Hardware|[Steam Deck Setup Guide](https://github.com/FOLahey/steamdeck)
 Hardware|[Miyoo Mini Setup Guide](https://github.com/FOLahey/miyoo)
 Software|(pvt) [Sync Emulator Save States to Github & My Save Files](https://github.com/FOLahey/saves)
 Game|[OpenRollerCoaster Tycoon 2 Setup Guide](https://github.com/FOLahey/OpenRCT2)
