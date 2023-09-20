@@ -30,6 +30,9 @@ EmuDeck is an emulator management suite for the Steam Deck (and other handheld e
 <img src="https://i.ytimg.com/vi/65_Ppqx1sjg/maxresdefault.jpg">
 #### Sourcing ROMs
 You can Google the name of the game you are desiring to play with the word ROM. It should be pretty available. There is a text editor for Linux that starts with V. There is a website with a similar name that distributes ROMs. The legality of ROMs is gray. They are largely considered abandonware. The legal arguement used to be that you needed a physical copy of the game. Nobody is going around checking, but it is not legal to redistribute these ROMs. Only some versions of some ROMs are compatible with RetroAchievements. See note below. 
+#### Playstation and other missing BIOS
+The Emudeck does not ship with the BIOS required to be able to play Playstation 2 and 3 games. 
+For PS2(pcsx2): You will need to source those BIOS, and then copy them directly to the Emulation/bios/ directory. Do not create a nested directory. You can get these by going to the same ROM site as above, going to emulators, and then clicking on the red text about PS2 bios under Playstation 2. Extract that zip file, and copy the three files to the bios directory directly. SCPH-70012.bin, SCPH-77008.bin, SCPH-90006.bin 
 
 ## Achievements
 If you are interested in tracking your achievements for the old games you are playing, you can sign up for an account at RetroAchievements and then insert those credentials into RetroArch (after setting up EmuDeck). To unlock the achievement, you must be actively connected to the Internet.
